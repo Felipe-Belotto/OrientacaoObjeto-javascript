@@ -6,7 +6,7 @@
 
    [Veja o projeto pelo Vercel](https://orientacao-objeto-javascript.vercel.app/)
 
-   Resumo do código
+   Resumo do código js
 
    O código é uma classe chamada "Produto" que possui métodos que permitem adicionar, atualizar, deletar e listar produtos em uma tabela HTML.
 
